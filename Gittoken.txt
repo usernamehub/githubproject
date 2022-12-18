@@ -1,0 +1,11 @@
+
+GITtoken -  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
+
+
+in the git bash, type the following.
+
+git config --global user.name "usernamehub"
+git config --global user.email "santocoolarjun@gmail.com"
+git config --global --list
+
+git config --global -e
